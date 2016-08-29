@@ -1,0 +1,58 @@
+.content > .table-view:first-child {
+   /* margin-top: -2px;
+*/
+        margin-top: 45%;
+    margin-bottom: 45%;
+}
+
+.hidden {
+    opacity: 0;
+}
+
+.HomePage .content {
+    background-color: #00A3B5;
+}
+
+.page2 .hoopage{
+    padding-top: 100px;
+    background-color: #222222;
+    text-align: center;
+}
+
+.page2 .content{
+    padding-top: 100px;
+    background-color: #222222;
+    text-align: center;
+}
+
+.media-object {
+    height: 150px;
+    width: 150px;
+}
+.hrr{
+	background-color: red !important;
+}
+.padh {
+    text-align: center;
+    background: url(../img/top-head.PNG) !important;
+    background-image: no-repeat;
+    width:100%;
+    height: 100px;
+    padding-top: 45px;
+    color: #fff;
+
+}
+.ok .content {
+    padding-top: 100px;
+    background-color: #222222;
+    text-align: center;
+}
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+.content > .table-view:first-child {
+    /* margin-top: -2px; */
+    margin-top: 65%;
+    margin-bottom: 45%;
+}
+
+    }
